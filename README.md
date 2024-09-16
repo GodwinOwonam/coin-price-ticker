@@ -1,6 +1,7 @@
-# bitcoin_ticker
+# Coin Price Ticker
 
-A new Flutter project.
+This project simulates the current prices of some cryptocurrencies with real-time update on change of the fiat currency.
+I have used a local server due to the limitation on getting the API key of the coinbase prices service.
 
 ## Getting Started
 
